@@ -2,7 +2,7 @@
 
 ob_start();
 
-$API_KEY = getenv('7644369056:AAErnzXUtCd3qYnCQZsetGg8fwVBvcfTl2o');
+$API_KEY = getenv('8309664031:AAHfLUSSomKD8iPKxnDlB2S2IceQ6nWSeZY');
 
 if (!$API_KEY) {
     http_response_code(500);
